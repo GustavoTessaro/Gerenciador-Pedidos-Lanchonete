@@ -30,6 +30,7 @@ Em resumo, um programa gerenciador de pedidos como o Esquinão Lanches simplific
 
 
 *Como instalar*
+
 Baixe o Java(caso não tiver).  
 Crie este banco de dados abaixo...
 
