@@ -69,6 +69,7 @@ Obs: Use o nome (atendente) e senha (esquinaolanches123) para acessar quando est
 
 
 *Funcionalidades implementadas*
+
 **Internacionalização:**
 - Para verificar a mudança de idioma no programa, altere a linguagem do seu dispositivo. O programa se ajusta automaticamente ao idioma do dispositivo, suportando até 6 línguas diferentes: inglês (en-US), espanhol (es-ES), alemão (de-DE), português (pt-BR), russo (ru-RU) e italiano (it-IT).
 
